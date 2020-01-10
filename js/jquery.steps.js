@@ -2064,17 +2064,17 @@ function calc()
     {
         perce+=27;
     }
-    else if(s1=='B'||s1=='b')
+    else if(s1==='B'||s1==='b')
     {
      perce+=24;
     }
-    else if(s1='C'||s1=='c')
+    else if(s1==='C'||s1==='c')
     {
         perce+=21;
 
 
     }
-    else if(s1=='D'||s1=='d')
+    else if(s1==='D'||s1==='d')
     {
         perce+=18;
 
@@ -2089,17 +2089,17 @@ function calc()
     {
         perce+=27;
     }
-    else if(s2=='B'||s2=='b')
+    else if(s2==='B'||s2==='b')
     {
      perce+=24;
     }
-    else if(s2='C'||s2=='c')
+    else if(s2==='C'||s2==='c')
     {
         perce+=21;
 
 
     }
-    else if(s2=='D'||s2=='d')
+    else if(s2==='D'||s2==='d')
     {
         perce+=18;
 
@@ -2114,17 +2114,17 @@ function calc()
     {
         perce+=27;
     }
-    else if(s3=='B'||s3=='b')
+    else if(s3==='B'||s3==='b')
     {
      perce+=24;
     }
-    else if(s3='C'||s3=='c')
+    else if(s3==='C'||s3==='c')
     {
         perce+=21;
 
 
     }
-    else if(s3=='D'||s3=='d')
+    else if(s3==='D'||s3==='d')
     {
         perce+=18;
 
@@ -2139,17 +2139,17 @@ function calc()
     {
         perce+=27;
     }
-    else if(s4=='B'||s4=='b')
+    else if(s4==='B'||s4==='b')
     {
      perce+=24;
     }
-    else if(s4='C'||s4=='c')
+    else if(s4==='C'||s4==='c')
     {
         perce+=21;
 
 
     }
-    else if(s4=='D'||s4=='d')
+    else if(s4==='D'||s4==='d')
     {
         perce+=18;
 
@@ -2164,17 +2164,17 @@ function calc()
     {
         perce+=27;
     }
-    else if(s5=='B'||s5=='b')
+    else if(s5==='B'||s5==='b')
     {
      perce+=24;
     }
-    else if(s5='C'||s5=='c')
+    else if(s5==='C'||s5==='c')
     {
         perce+=21;
 
 
     }
-    else if(s5=='D'||s5=='d')
+    else if(s5==='D'||s5==='d')
     {
         perce+=18;
 
@@ -2193,17 +2193,17 @@ function calc()
     {
         perce+=18;
     }
-    else if(s6=='B'||s6=='b')
+    else if(s6==='B'||s6==='b')
     {
      perce+=16;
     }
-    else if(s6='C'||s6=='c')
+    else if(s6==='C'||s6==='c')
     {
         perce+=14;
 
 
     }
-    else if(s6=='D'||s6=='d')
+    else if(s6==='D'||s6==='d')
     {
         perce+=12;
 
@@ -2219,17 +2219,17 @@ function calc()
     {
         perce+=18;
     }
-    else if(s7=='B'||s7=='b')
+    else if(s7==='B'||s7==='b')
     {
      perce+=16;
     }
-    else if(s7='C'||s7=='c')
+    else if(s7==='C'||s7==='c')
     {
         perce+=14;
 
 
     }
-    else if(s7=='D'||s7=='d')
+    else if(s7==='D'||s7==='d')
     {
         perce+=12;
 
@@ -2245,17 +2245,17 @@ function calc()
     {
         perce+=18;
     }
-    else if(s8=='B'||s8=='b')
+    else if(s8==='B'||s8==='b')
     {
      perce+=16;
     }
-    else if(s8='C'||s8=='c')
+    else if(s8==='C'||s8==='c')
     {
         perce+=14;
 
 
     }
-    else if(s8=='D'||s8=='d')
+    else if(s8==='D'||s8==='d')
     {
         perce+=12;
 
