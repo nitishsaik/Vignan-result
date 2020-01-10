@@ -107,23 +107,6 @@ body {
       transition: all 0.5s ease;
       border-radius: 5.5px; }
 
-.avartar-picker {
-  padding-left: 15px;
-  margin-top: 20px; }
-  .avartar-picker .inputfile {
-    display: none; }
-  .avartar-picker label {
-    display: block;
-    cursor: pointer;
-    display: inline-block;
-    color: #333;
-    font-size: 12px;
-    text-transform: uppercase;
-    font-weight: 800; }
-    .avartar-picker label:hover {
-      color: #666; }
-    .avartar-picker label i {
-      margin-right: 3px; }
 
 .form-header {
   display: flex; }
@@ -367,7 +350,6 @@ body {
   .steps {
     display: none; } }
 
-/*# sourceMappingURL=style.css.map */
 .grid-container {
   display: inline-grid;
   grid-template-columns: auto auto auto;
