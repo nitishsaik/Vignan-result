@@ -2075,19 +2075,19 @@ function calc()
 
     
 
-    if(s1==='O')
+    if(s1=='O')
     {
        perce+=30;
     }
-    else if(s1==='A')
+    else if(s1=='A')
     {
        perce+=27;
     }
-    else if(s1==='B')
+    else if(s1=='B')
     {
     perce+=24;
     }
-    else if(s1==='C')
+    else if(s1=='C')
     {
        perce+=21;
 
