@@ -2075,201 +2075,201 @@ function calc()
 
     
 
-    if(s1=='O')
+    if(s1==='O')
     {
        perce+=30;
     }
-    else if(s1=='A')
+    else if(s1==='A')
     {
        perce+=27;
     }
-    else if(s1=='B')
+    else if(s1==='B')
     {
     perce+=24;
     }
-    else if(s1=='C')
+    else if(s1==='C')
     {
        perce+=21;
 
 
     }
-    else if(s1=='D')
+    else if(s1==='D')
     {
        perce+=18;
 
     }
-    if(s2=='O')
+    if(s2==='O')
     {
        perce+=30;
     
 
     }
-    else if(s2=='A')
+    else if(s2==='A')
     {
        perce+=27;
     }
-    else if(s2=='B')
+    else if(s2==='B')
     {
     perce+=24;
     }
-    else if(s2=='C')
+    else if(s2==='C')
     {
        perce+=21;
 
 
     }
-    else if(s2=='D')
+    else if(s2==='D')
     {
       perce+=18;
 
     }
-    if(s3=='O')
+    if(s3==='O')
     {
        perce+=30;
     
 
     }
-    else if(s3=='A')
+    else if(s3==='A')
     {
        perce+=27;
     }
-    else if(s3=='B')
+    else if(s3==='B')
     {
     perce+=24;
     }
-    else if(s3=='C')
+    else if(s3==='C')
     {
        perce+=21;
 
 
     }
-    else if(s3=='D')
+    else if(s3==='D')
     {
        perce+=18;
 
     }
-    if(s4=='O')
+    if(s4==='O')
     {
        perce+=30;
     
 
     }
-    else if(s4=='A')
+    else if(s4==='A')
     {
        perce+=27;
     }
-    else if(s4=='B')
+    else if(s4==='B')
     {
     perce+=24;
     }
-    else if(s4=='C')
+    else if(s4==='C')
     {
        perce+=21;
 
 
     }
-    else if(s4=='D')
+    else if(s4==='D')
     {
        perce+=18;
 
     }
-    if(s5=='O')
+    if(s5==='O')
     {
        perce+=30;
     
 
     }
-    else if(s5=='A')
+    else if(s5==='A')
     {
-        perce=perce27;
+        perce+=27;
     }
-    else if(s5=='B')
+    else if(s5==='B')
     {
    perce+=24;
     }
-    else if(s5=='C')
+    else if(s5==='C')
     {
       perce+=21;
 
 
     }
-    else if(s5=='D')
+    else if(s5==='D')
     {
       perce+=18;
 
     }
 
-    if(s6=='O')
+    if(s6==='O')
     {
        perce+=20;
     
 
     }
-    else if(s6=='A')
+    else if(s6==='A')
     {
       perce+=18;
     }
-    else if(s6=='B')
+    else if(s6==='B')
     {
    perce+=16;
     }
-    else if(s6=='C')
+    else if(s6==='C')
     {
       perce+=14;
 
 
     }
-    else if(s6=='D')
+    else if(s6==='D')
     {
       perce+=12;
 
     }
- if(s7=='O')
+ if(s7==='O')
     {
        perce+=20;
 
     }
-    else if(s7=='A')
+    else if(s7==='A')
     {
       perce+=18;
     }
-    else if(s7=='B')
+    else if(s7==='B')
     {
    perce+=16;
     }
-    else if(s7=='C')
+    else if(s7==='C')
     {
       perce+=14;
 
 
     }
-    else if(s7=='D')
+    else if(s7==='D')
     {
       perce+=12;
 
     }
 
-    if(s8=='O')
+    if(s8==='O')
     {
        perce+=20;
     
 
     }
-    else if(s8=='A')
+    else if(s8==='A')
     {
       perce+=18;
     }
-    else if(s8=='B')
+    else if(s8==='B')
     {
    perce+=16;
     }
-    else if(s8=='C')
+    else if(s8==='C')
     {
       perce+=14;
 
 
     }
-    else if(s8=='D')
+    else if(s8==='D')
     {
       perce+=12;
 
