@@ -2076,7 +2076,7 @@ function calc()
     case "C":
       per+=21;
       break;
-    case "C":
+    case "D":
       per+=18;
       break;
     default:
@@ -2096,7 +2096,7 @@ function calc()
     case "C":
       per+=21;
       break;
-    case "C":
+    case "D":
       per+=18;
       break;
     default:
@@ -2116,7 +2116,7 @@ function calc()
     case "C":
       per+=21;
       break;
-    case "C":
+    case "D":
       per+=18;
       break;
     default:
@@ -2136,7 +2136,7 @@ function calc()
     case "C":
       per+=21;
       break;
-    case "C":
+    case "D":
       per+=18;
       break;
     default:
@@ -2156,7 +2156,7 @@ function calc()
     case "C":
       per+=21;
       break;
-    case "C":
+    case "D":
       per+=18;
       break;
     default:
@@ -2176,7 +2176,7 @@ function calc()
     case "C":
       per+=14;
       break;
-    case "C":
+    case "D":
       per+=12;
       break;
     default:
@@ -2196,7 +2196,7 @@ function calc()
     case "C":
       per+=14;
       break;
-    case "C":
+    case "D":
       per+=12;
       break;
     default:
@@ -2216,7 +2216,7 @@ function calc()
     case "C":
       per+=14;
       break;
-    case "C":
+    case "D":
       per+=12;
       break;
     default:
