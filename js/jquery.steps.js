@@ -2062,34 +2062,10 @@ function calc()
    var s5=t5.toUpperCase();
    var s6=t6.toUpperCase();
     var s7=t7.toUpperCase();
+    var s8=t8.toUpperCase();
+    var s9=t9.toUpperCase();
    
-    var s8;
-    var s9;
-    
-      if(t8===""){
-   s8="0";
-            
- console.log(s8);
-    
-    }else{
-      s8=t8.toUpperCase();
-          
- console.log(s8);
-    
-    }
-    
-      if(t9===""){
-   s9="0";
-            
- console.log(s9);
-    
-    }else{
-s9=t9.toUpperCase();
-          
- console.log(s9);
-    
-    }
-
+   
     
     
     
