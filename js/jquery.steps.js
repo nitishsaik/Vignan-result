@@ -2063,8 +2063,9 @@ function calc()
    var s6=t6.toUpperCase();
    var s7=t7.toUpperCase();
    var s8=t8.toUpperCase();
+    console.log(s8);
     var s9=t9.toUpperCase();
- 
+ console.log(s9);
    switch (s1) {
     case "O":
       per+=30;
@@ -2261,11 +2262,12 @@ if(s9!=0 && s8!=0){
     }
     
 
-
+console.log(bb);
 
 
 var aggr=0;
 cgpa=per/bb;
+    console.log(cgpa);
 aggr=(cgpa-0.75)*10;
 var twocgpa=cgpa.toFixed(2);
 var twoaggr=aggr.toFixed(2);
