@@ -2061,21 +2061,38 @@ function calc()
    var s4=t4.toUpperCase();
    var s5=t5.toUpperCase();
    var s6=t6.toUpperCase();
-    if(Number.isNaN(t7)){
-   var s7="0";
-    }else{
-     var s7=t7.toUpperCase();
-    }
-      if(Number.isNaN(t7)){
+    var s7=t7.toUpperCase();
+   
+    
+    
+      if(Number.isNaN(t8)){
    var s8="0";
+            
+ console.log(s8);
+    
     }else{
      var s8=t8.toUpperCase();
+          
+ console.log(s8);
+    
     }
-   
-   
-    console.log(s8);
-    var s9=t9.toUpperCase();
+    
+      if(Number.isNaN(t9)){
+   var s9="0";
+            
  console.log(s9);
+    
+    }else{
+var s9=t9.toUpperCase();
+          
+ console.log(s9);
+    
+    }
+
+    
+    
+    
+    
    switch (s1) {
     case "O":
       per+=30;
