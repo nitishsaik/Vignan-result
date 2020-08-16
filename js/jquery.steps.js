@@ -2052,6 +2052,7 @@ function calc()
     var t6= document.getElementById('lab1').value;
     var t7= document.getElementById('lab2').value;
     var t8= document.getElementById('lab3').value;
+    var t9= document.getElementById('sub5').value;
     var cgpa=0;
     var per=0;
    var s1=t1.toUpperCase();
@@ -2062,6 +2063,7 @@ function calc()
    var s6=t6.toUpperCase();
    var s7=t7.toUpperCase();
    var s8=t8.toUpperCase();
+    var s9=t9.toUpperCase();
  
    switch (s1) {
     case "O":
@@ -2084,6 +2086,26 @@ function calc()
 
   }
   switch (s2) {
+    case "O":
+      per+=30;
+      break;
+    case "A":
+      per+=27;
+      break;
+    case "B":
+      per+=24;
+      break;
+    case "C":
+      per+=21;
+      break;
+    case "D":
+      per+=18;
+      break;
+    default:
+        per+=0;
+
+  }
+      switch (s9) {
     case "O":
       per+=30;
       break;
@@ -2227,16 +2249,23 @@ function calc()
 
 
 
-
-
-
-
+var bb;
+if(s9!=0 && s8!=0){
+    bb=24;
+}
+    else if(s9!=0 && s8===0){
+        bb=22;
+    }
+     else if(s9===0 && s8!=0){
+        bb=21;
+    }
+    
 
 
 
 
 var aggr=0;
-cgpa=per/21;
+cgpa=per/bb;
 aggr=(cgpa-0.75)*10;
 var twocgpa=cgpa.toFixed(2);
 var twoaggr=aggr.toFixed(2);
