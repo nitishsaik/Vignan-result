@@ -2088,6 +2088,7 @@ function calc()
       break;
     default:
         per+=0;
+              break;
 
   }
   switch (s2) {
@@ -2108,6 +2109,7 @@ function calc()
       break;
     default:
         per+=0;
+             break;
 
   }
       switch (s9) {
@@ -2128,6 +2130,7 @@ function calc()
       break;
     default:
         per+=0;
+                 break;
 
   }
   switch (s3) {
@@ -2148,6 +2151,7 @@ function calc()
       break;
     default:
         per+=0;
+             break;
 
   }
   switch (s4) {
@@ -2168,6 +2172,7 @@ function calc()
       break;
     default:
         per+=0;
+             break;
 
   }
   switch (s5) {
@@ -2188,6 +2193,7 @@ function calc()
       break;
     default:
         per+=0;
+             break;
 
   }
   switch (s6) {
@@ -2208,6 +2214,7 @@ function calc()
       break;
     default:
         per+=0;
+             break;
 
   }
   switch (s7) {
@@ -2228,7 +2235,7 @@ function calc()
       break;
     default:
         per+=0;
-
+   break;
   }
   switch (s8) {
     case "O":
@@ -2248,6 +2255,7 @@ function calc()
       break;
     default:
         per+=0;
+             break;
 
   }
 
