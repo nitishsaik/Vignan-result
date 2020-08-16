@@ -2263,13 +2263,13 @@ function calc()
 
 
 var bb;
-if(s9!=0 && s8!=0){
+if(s9!="Z" && s8!="Z"){
     bb=24;
 }
-    else if(s9!=0 && s8===0){
+    else if(s9!="Z" && s8==="Z"){
         bb=22;
     }
-     else if(s9===0 && s8!=0){
+     else if(s9==="Z" && s8!="Z"){
         bb=21;
     }
     
