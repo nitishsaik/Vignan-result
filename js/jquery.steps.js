@@ -2063,27 +2063,28 @@ function calc()
    var s6=t6.toUpperCase();
     var s7=t7.toUpperCase();
    
-    
+    var s8;
+    var s9;
     
       if(Number.isNaN(t8)){
-   var s8="0";
+   s8="0";
             
  console.log(s8);
     
     }else{
-     var s8=t8.toUpperCase();
+      s8=t8.toUpperCase();
           
  console.log(s8);
     
     }
     
       if(Number.isNaN(t9)){
-   var s9="0";
+   s9="0";
             
  console.log(s9);
     
     }else{
-var s9=t9.toUpperCase();
+s9=t9.toUpperCase();
           
  console.log(s9);
     
