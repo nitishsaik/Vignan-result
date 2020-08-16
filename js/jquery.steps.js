@@ -2066,7 +2066,7 @@ function calc()
     var s8;
     var s9;
     
-      if(Number.isNaN(t8)){
+      if(t8===""){
    s8="0";
             
  console.log(s8);
@@ -2078,7 +2078,7 @@ function calc()
     
     }
     
-      if(Number.isNaN(t9)){
+      if(t9===""){
    s9="0";
             
  console.log(s9);
